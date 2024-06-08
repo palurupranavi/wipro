@@ -1,0 +1,14 @@
+import java.util.*;
+class Commandline
+{
+public static void main(String args[])
+{
+System.out.println(args[0]+" technologies "+args[1]);
+}
+}
+
+//output
+//java Commqandline Wipro Bangalore
+//op-Wipro technologies Bangalore
+//java Commandline ABC Mumbai
+//op-ABC technologies Mumbai
